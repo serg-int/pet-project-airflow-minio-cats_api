@@ -1,0 +1,1 @@
+В поле extra необходимо дописать: {"region_name": "us-east-1", "bucket_name": "my-s3bucket", "endpoint_url": "http://airflow-s3:9000"}
